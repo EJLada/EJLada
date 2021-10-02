@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EJLada
-- 👀 I’m interested in gaming, music, D&D, etc.
-- 🌱 I’m currently learning C++, Java, JavaScript, etc.
-- 💞️ I’m looking to collaborate on all sorts of things.
+- 👀 I’m interested in gaming, music, D&D, homebrewing, etc.
+- 🌱 I’m currently learning Python, C++, Java, JavaScript, etc.
+- 🎬 I’m a former arts management executive looking for software engineering internships.
 - 📫 How to reach me: ejlada@gmail.com
 
 <!---
