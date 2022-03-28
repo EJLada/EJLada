@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EJLada
-- 👀 I’m interested in gaming, music, D&D, homebrewing, etc.
-- 🌱 I’m currently learning Python, C++, Java, JavaScript, etc.
-- 🎬 I’m a former arts management executive looking for software engineering internships.
+- 👀 Hobbies include gaming, music, D&D, homebrewing, etc.
+- 🌱 I work in Python, Node.js, Express, React, C++, Java, JavaScript, etc.
+- 🎬 I’m a semi-professional trombonist and conductor, and a former arts management executive. 
 - 📫 How to reach me: ejlada@gmail.com
 
 <!---
